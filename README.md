@@ -2,7 +2,7 @@
 # Escuela Colombiana de Ingeniería – Arquitecturas de Software  
 
 ---
-
+L
 ## 📋 Requisitos
 - Java 21
 - Maven 3.9+
